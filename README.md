@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yasin</h1>
-<h3 align="center">3rd Year Software Engineering Student</h3>
 
 <img align="right" alt="Coding" width="180" style="margin-left: 20px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
