@@ -24,6 +24,9 @@
 </p>
 
 ---
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
